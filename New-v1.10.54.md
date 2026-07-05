@@ -1,1 +1,24 @@
-
+{
+"Title": "سلام عشقم 😍",
+"Description": "برای استفاده از برنامه و دسترسی به فیلترشکن‌های متصل بیشتر حتما عضو کانال تلگرامی ما شوید ❤️👇🏻",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#437a75",
+"Color": "#437a75",
+"ColorWaveTwo": "#8eafac",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "48965229126",
+"ShowTime": "3",
+"Button": "  عضویت فوری  ",
+"ButtonCancell": " بعدا ",
+"Closure": "true",
+"Show": "on"
+}
