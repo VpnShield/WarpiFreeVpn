@@ -1,7 +1,7 @@
 {
   "Title": "🔥   توجــــــــــــــــــــــــــــــــه   🔥",
   "Description": "کانفیگ رایگان ویتوری ؛ هدیه تیم ما به شما ✅\n➖➖➖➖➖➖➖\nبرای دریافت روی دکمه زیر لمس کنید 👇🏼",
-  "Link": "https://t.me/VpnShieldRoBot?start=buy_direct_dg_shield_12nov",
+  "Link": "https://t.me/VpnShieldRoBot?start=free_direct_dg_shield_12nov",
   "ColorWave": "#ff0000",
   "Color": "#FFA500",
   "ColorWaveTwo": "#ff4d4d",
