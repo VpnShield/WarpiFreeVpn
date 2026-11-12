@@ -1,1 +1,24 @@
-
+{
+  "Title": "🔥   توجــــــــــــــــــــــــــــــــه   🔥",
+  "Description": "کانفیگ رایگان ویتوری ؛ هدیه تیم ما به شما ✅\n➖➖➖➖➖➖➖\nبرای دریافت روی دکمه زیر لمس کنید 👇🏼",
+  "Link": "https://t.me/VpnShieldRoBot?start=buy_direct_dg_shield_12nov",
+  "ColorWave": "#ff0000",
+  "Color": "#FFA500",
+  "ColorWaveTwo": "#ff4d4d",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#ff323232",
+  "ColorTitle": "#ff111111",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#00a043",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#e90000",
+  "Cancellable": "false",
+  "MessageID": "5100956821802456",
+  "ShowTime": "3",
+  "Button": "دریافت هدیه",
+  "ButtonCancell": "",
+  "Closure": "true",
+  "Show": "on"
+}
