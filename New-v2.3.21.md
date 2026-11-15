@@ -1,1 +1,24 @@
-
+{
+  "Title": "🔥   توجــــــــــــــــــــــــــــــــه   🔥",
+  "Description": "برای جلوگیری از قطع اینترنت خودتون ، فورا عضو بزرگترین کانال فیلترشکن مود شده و کانفیگ رایگان بشید ❤️👇🏻",
+  "Link": "tg://join?invite=cZOngHVurPw1YjQ0",
+  "ColorWave": "#8e42ff",
+  "Color": "#2196F3",
+  "ColorWaveTwo": "#9d50fb",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#ff323232",
+  "ColorTitle": "#ff111111",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#00a043",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#e90000",
+  "Cancellable": "false",
+  "MessageID": "5934172680405572",
+  "ShowTime": "3",
+  "Button": "  عضـویت اجــباری ",
+  "ButtonCancell": "  ",
+  "Closure": "true",
+  "Show": "on"
+}
